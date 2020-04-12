@@ -722,3 +722,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 7 (Closing connection 8)
 [2020.04.12-12.35.41:656][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B791A4289-45AC-C705-59BE-9FAD7EEAAAF4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=82aff282480340e706475e904752da24%7C64e4f72db5fe4210aa9a8def6d6aedf2%7Ce1e06659-8f25-4aca-9440-52ad78543e9f&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2020.04.12-12.36.18:068][814]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.12-12.48.43:703][ 62]LogActorFactory: Actor Factory created Cone
+[2020.04.12-12.48.44:158][ 67]LogActorFactory: Actor Factory created Cone
+[2020.04.12-12.48.47:892][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.12-12.48.47:921][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levelartur" FILE="../../../../../../geometry-ue4/usa/Content/Levelartur.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-12.48.47:946][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.12-12.48.47:960][183]LogSavePackage: Moving '../../../../../../geometry-ue4/usa/Saved/Levelartur1B8935EE476218FD9BD6F880E6DC4C8B.tmp' to '../../../../../../geometry-ue4/usa/Content/Levelartur.umap'
+[2020.04.12-12.48.47:972][183]LogFileHelpers: Saving map 'Levelartur' took 0.052
+[2020.04.12-12.48.47:987][183]AssetCheck: New page: Asset Save: Levelartur
+[2020.04.12-12.48.47:987][183]LogContentValidation: Display: Validating World /Game/Levelartur.Levelartur
+[2020.04.12-13.01.25:253][459]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.12-13.01.25:253][459]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
