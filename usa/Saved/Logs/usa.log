@@ -629,3 +629,96 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.12-12.26.37:045][139]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levelartur_BuiltData.Levelartur_BuiltData
 [2020.04.12-12.26.37:065][139]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.12-12.27.00:773][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.04.12-12.29.18:291][294]LogActorFactory: Actor Factory created Plane
+[2020.04.12-12.29.18:727][296]LogActorFactory: Actor Factory created Plane
+[2020.04.12-12.29.20:742][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-12.29.25:128][373]MapCheck: New page: Map Check
+[2020.04.12-12.29.25:162][373]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.12-12.29.25:163][373]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.12-12.29.25:168][373]LogWorld: UWorld::CleanupWorld for Levelartur, bSessionEnded=true, bCleanupResources=false
+[2020.04.12-12.29.25:204][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.04.12-12.29.26:589][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.12-12.29.27:276][373]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.12-12.29.27:277][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.12-12.29.27:277][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.12-12.29.27:293][373]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.12-12.29.29:863][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.04.12-12.29.29:864][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.12-12.29.29:864][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.12-12.29.29:864][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.12-12.29.29:864][373]TextureStreamingBuild: Display: Compiling optional shaders took 4.440 seconds.
+[2020.04.12-12.29.29:889][373]LogLevel: Display: Export Material TexCoord Scales took 0.025 seconds.
+[2020.04.12-12.29.29:896][373]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2020.04.12-12.29.29:921][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.12-12.29.29:929][373]LightingResults: New page: Lighting Build - 13 апр. 2020 г., 00:29:29
+[2020.04.12-12.29.29:987][373]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.12-12.29.30:045][373]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.12-12.29.30:068][373]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.12-12.29.31:131][373]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.12-12.29.31:131][373]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13008
+[2020.04.12-12.29.37:773][373]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.12-12.29.37:775][373]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.12-12.29.37:775][373]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.12-12.29.37:775][373]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.12-12.29.37:775][373]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.12-12.29.37:775][373]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.12-12.29.37:994][373]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.12-12.29.37:994][373]MapCheck: New page: Levelartur - 13 апр. 2020 г., 00:29:37
+[2020.04.12-12.29.38:033][373]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.04.12-12.29.38:038][373]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 43,943ms to complete.
+[2020.04.12-12.29.38:040][373]LogEditorBuildUtils: Build time 0:12
+[2020.04.12-12.29.38:505][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.12-12.29.42:411][406]Job is a success!
+[2020.04.12-12.29.43:960][407]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.12-12.29.43:961][407]LogVolumetricLightmapImport:          Levelartur 			 8 bricks 	 100.0% (Persistent Level)
+[2020.04.12-12.29.44:092][407]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.04.12-12.29.44:092][407]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2020.04.12-12.29.44:093][407]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.04.12-12.29.44:093][407]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2020.04.12-12.29.44:093][407]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.12-12.29.44:093][407]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2020.04.12-12.29.44:093][407]Lightmass on DESKTOP-RK9PMNM: 3.61 sec total, 963 ms importing, 29 ms setup, 78 ms photons, 1.91 sec processing, 0 ms extra exporting [3/3 mappings]. Threads: 13.3 sec total, 223 ms processing.
+[2020.04.12-12.29.44:093][407]LogStaticLightingSystem: Levelartur_BuiltData storing lightmap data for 3 meshes in 2 LightmapResourceClusters (1.5 Meshes per cluster).
+[2020.04.12-12.29.44:117][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.12-12.29.44:852][407]LogStaticLightingSystem: Illumination: 13.4 sec (35 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2020.04.12-12.29.44:855][407]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.04.12-12.29.44:855][407]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.12-12.29.46:179][407]DumpUnbuiltLightIteractions
+[2020.04.12-12.29.46:179][407]Lights with unbuilt interactions: 0
+[2020.04.12-12.29.46:179][407]
+[2020.04.12-12.29.46:179][407]Primitives with unbuilt interactions: 0
+[2020.04.12-12.29.46:403][408]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.12-12.29.46:403][408]MapCheck: New page: Levelartur - 13 апр. 2020 г., 00:29:46
+[2020.04.12-12.29.46:404][408]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,351ms to complete.
+[2020.04.12-12.29.48:736][436]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-12.29.48:757][436]LogSlate: Window 'Message Log' being destroyed
+[2020.04.12-12.29.51:452][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.12-12.29.51:484][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levelartur" FILE="../../../../../../geometry-ue4/usa/Content/Levelartur.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-12.29.51:508][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.12-12.29.51:520][524]LogSavePackage: Moving '../../../../../../geometry-ue4/usa/Saved/LevelarturD6B0EA6244BE30D1520ABEBFD84A562C.tmp' to '../../../../../../geometry-ue4/usa/Content/Levelartur.umap'
+[2020.04.12-12.29.51:529][524]LogFileHelpers: Saving map 'Levelartur' took 0.046
+[2020.04.12-12.29.51:529][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levelartur_BuiltData" FILE="../../../../../../geometry-ue4/usa/Content/Levelartur_BuiltData.uasset" SILENT=true
+[2020.04.12-12.29.51:542][524]LogSavePackage: Moving '../../../../../../geometry-ue4/usa/Saved/Levelartur_BuiltDataC16DFEF747159EFAD6CA45BAC4C03906.tmp' to '../../../../../../geometry-ue4/usa/Content/Levelartur_BuiltData.uasset'
+[2020.04.12-12.29.51:561][524]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.12-12.29.51:561][524]LogContentValidation: Display: Validating World /Game/Levelartur.Levelartur
+[2020.04.12-12.29.51:561][524]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levelartur_BuiltData.Levelartur_BuiltData
+[2020.04.12-12.29.56:390][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.04.12-12.35.41:655][706]LogHttp: Warning: 000002FBE85EEAC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B791A4289-45AC-C705-59BE-9FAD7EEAAAF4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=82aff282480340e706475e904752da24%7C64e4f72db5fe4210aa9a8def6d6aedf2%7Ce1e06659-8f25-4aca-9440-52ad78543e9f&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.12-12.35.41:655][706]LogHttp: Warning: 000002FBE85EEAC0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.12-12.35.41:655][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2fbb394ff70 [can pipeline])
+[2020.04.12-12.35.41:655][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.43.8) port 443 (#8))
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: 000002FBE85EEAC0: libcurl info message cache 7 (Closing connection 8)
+[2020.04.12-12.35.41:656][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B791A4289-45AC-C705-59BE-9FAD7EEAAAF4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=82aff282480340e706475e904752da24%7C64e4f72db5fe4210aa9a8def6d6aedf2%7Ce1e06659-8f25-4aca-9440-52ad78543e9f&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.12-12.36.18:068][814]LogAudioMixer: Display: Audio Buffer Underrun detected.
