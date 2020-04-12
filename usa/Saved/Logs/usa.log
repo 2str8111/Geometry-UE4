@@ -611,3 +611,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.12-12.12.16:764][  0]LogAssetRegistry: Asset discovery search completed in 5.6984 seconds
 [2020.04.12-12.12.16:769][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2020.04.12-12.12.16:774][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.12-12.26.10:977][963]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.04.12-12.26.11:051][963]LogEditorViewport: Clicking on Component (LMB): DirectionalLightComponent (LightComponent0)
+[2020.04.12-12.26.12:455][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-12.26.12:541][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-12.26.12:620][982]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.04.12-12.26.36:661][139]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.12-12.26.36:704][139]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-12.26.36:953][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levelartur" FILE="../../../../../../geometry-ue4/usa/Content/Levelartur.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.12-12.26.36:980][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.04.12-12.26.37:002][139]LogSavePackage: Moving '../../../../../../geometry-ue4/usa/Saved/Levelartur2CD6155F43A081B02F43FF8C70C09376.tmp' to '../../../../../../geometry-ue4/usa/Content/Levelartur.umap'
+[2020.04.12-12.26.37:014][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levelartur_BuiltData" FILE="../../../../../../geometry-ue4/usa/Content/Levelartur_BuiltData.uasset" SILENT=true
+[2020.04.12-12.26.37:027][139]LogSavePackage: Moving '../../../../../../geometry-ue4/usa/Saved/Levelartur_BuiltData15EFDA3E440ED3DFCC277D923DBA1C42.tmp' to '../../../../../../geometry-ue4/usa/Content/Levelartur_BuiltData.uasset'
+[2020.04.12-12.26.37:037][139]LogFileHelpers: Saving map 'Levelartur' took 0.337
+[2020.04.12-12.26.37:045][139]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.12-12.26.37:045][139]LogContentValidation: Display: Validating World /Game/Levelartur.Levelartur
+[2020.04.12-12.26.37:045][139]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levelartur_BuiltData.Levelartur_BuiltData
+[2020.04.12-12.26.37:065][139]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-12.27.00:773][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
